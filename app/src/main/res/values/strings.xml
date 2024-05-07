@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="error_text">Ошибка при загрузке, проверьте ваш интернет</string>
+    <string name="previousPageText">Прошлая страница</string>
+    <string name="nextPageText">Следующая страница</string>
+</resources>
